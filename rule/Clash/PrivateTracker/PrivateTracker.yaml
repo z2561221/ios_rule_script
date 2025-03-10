@@ -259,10 +259,27 @@ payload:
   - DOMAIN-SUFFIX,u2.dmhy.org
   - DOMAIN-SUFFIX,uhdbits.org
   - DOMAIN-SUFFIX,xauat6.edu.cn
+
+  
+  - DOMAIN-SUFFIX,piggo.me
+  - DOMAIN-SUFFIX,wintersakura.net
+  - DOMAIN-SUFFIX,qingwa.pro
+  - DOMAIN-SUFFIX,qingwapt.com
+  - DOMAIN-SUFFIX,cyanbug.net
+  - DOMAIN-SUFFIX,m-team.io
+  - DOMAIN-SUFFIX,lemonhd.club
+  - DOMAIN-SUFFIX,sunnypt.top
+  - DOMAIN-SUFFIX,sunnytk.top
+  - DOMAIN-SUFFIX,nextpt.net
+  - DOMAIN-SUFFIX,connects.icu
+  - DOMAIN-SUFFIX,t.audiences.me
+  - DOMAIN-SUFFIX,audiences.me
+
   - DOMAIN-KEYWORD,announce
   - DOMAIN-KEYWORD,chdbits
   - DOMAIN-KEYWORD,m-team
   - DOMAIN-KEYWORD,torrent
+  - DOMAIN-KEYWORD,tracker
   - IP-CIDR,207.241.226.111/32
   - IP-CIDR,207.241.231.226/32
   - IP-CIDR,52.58.128.163/32
